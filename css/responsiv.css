@@ -1,0 +1,13 @@
+
+/* @medaia(min-width:1000px){
+    body{
+        background-color: blue;
+    }
+
+}
+@medaia(max-width:1000px){
+    body{
+        background-color:red;
+    }
+
+} */
